@@ -1,0 +1,48 @@
+VAR
+    
+    (* EINGAENGE *)
+	iB_S1: BOOL := FALSE; (* Taster "Start" *)
+	iB_S2: BOOL := FALSE; (* Taster "Automatikbetrieb" *)
+	iB_S5: BOOL := FALSE; (* Endlagenschalter "Schieber Zu" *)
+	iB_S6: BOOL := FALSE; (* Endlagenschalter "Schieber Auf" *)
+	iB_B4: BOOL := FALSE; (* Lichtschranke "Schuettgut auf Band" *)
+    
+	iA_L1: INT  := 0; (* Ultraschallsensor Distanzmessung Silo 1 *)
+	iA_L2: INT  := 0; (* Ultraschallsensor Distanzmessung Silo 2 *)
+	
+	iA_F3: INT  := 0; (* Durchflusssensor Wassereinspritzung *)
+	
+	iA_R1: INT	:= 0; (* Poti zur Sollwerteinstellung "Menge aus Silo 1" *)
+	iA_R2: INT	:= 0; (* Poti zur Sollwerteinstellung "Menge aus Silo 2" *)
+    
+	(* AUSGAENGE *)
+	qB_Q1_1: BOOL := FALSE; (* Motorschuetz Foerderschnecke 1 *)
+	qB_Q2_1: BOOL := FALSE; (* Motorschuetz Foerderschnecke 2 *)
+	qB_Q3_1: BOOL := FALSE; (* Motorschuetz Mischer *)
+	qB_Q4_1: BOOL := FALSE; (* Motorschuetz Schieber auf *)
+	qB_Q4_2: BOOL := FALSE; (* Motorschuetz Schieber zu *)
+	qB_Q5_1: BOOL := FALSE; (* Motorschuetz Band *)
+	
+	qA_Y3: INT := 0; (* Regelventil Wassereinspritzung *)
+	
+	qB_P1: BOOL := FALSE; (* Meldeleuchte "Fuellstand zu gering" *)
+	qB_P2: BOOL := FALSE; (* Meldeleuchte "Automatikbetrieb aktiv" *)
+
+END_VAR
+
+VAR CONSTANT
+
+	(* Silogeometrie *)
+	cA_H1: REAL := 20;
+	cA_R0: REAL := 1.25;
+	cA_R1: REAL := 6.25;
+	cA_dR: REAL := cA_R1 - cA_R0;
+	
+	cA_H_Min: REAL := 5;
+	
+	(* Messkonstanten *)
+	cA_k_s: REAL := 1 / 32767 * 99;
+
+	
+END_VAR
+

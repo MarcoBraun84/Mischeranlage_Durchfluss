@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<OpcUaSource FileVersion="8" ArVersion="E4.83">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <GlobalVariables Name="Globale Variablen">
+        <Variable Name="iA_L1" />
+        <Variable Name="iA_L2" />
+        <Variable Name="iB_B4" />
+        <Variable Name="iB_S1" />
+        <Variable Name="iB_S5" />
+        <Variable Name="iB_S6" />
+        <Variable Name="qB_Q1_1" />
+        <Variable Name="qB_Q2_1" />
+        <Variable Name="qB_Q3_1" />
+        <Variable Name="qB_Q4_1" />
+        <Variable Name="qB_Q4_2" />
+        <Variable Name="qB_Q5_1" />
+        <Variable Name="iA_R1" />
+        <Variable Name="iA_R2" />
+        <Variable Name="iB_S2" />
+        <Variable Name="qB_P1" />
+        <Variable Name="qB_P2" />
+      </GlobalVariables>
+      <Task Name="Program">
+        <Variable Name="xA_h1" />
+        <Variable Name="xA_h2" />
+        <Variable Name="cA_k_h1" />
+        <Variable Name="cA_k_h2" />
+        <Variable Name="cA_T_Zykl" />
+        <Variable Name="cA_T1" />
+        <Variable Name="cA_T2" />
+        <Variable Name="cA_T5" />
+        <Variable Name="typSilo_Silo1">
+          <Variable Name="qA_MengeImSilo" />
+          <Variable Name="qA_AbgegebeneMenge" />
+        </Variable>
+        <Variable Name="typSilo_Silo2">
+          <Variable Name="qA_MengeImSilo" />
+          <Variable Name="qA_AbgegebeneMenge" />
+        </Variable>
+        <Variable Name="xA_T1" />
+        <Variable Name="xA_T2" />
+        <Variable Name="xA_T5" />
+        <Variable Name="xB_T1" />
+        <Variable Name="xB_T2" />
+        <Variable Name="xB_T5" />
+        <Variable Name="z_0" />
+        <Variable Name="z_1" />
+        <Variable Name="z_2" />
+        <Variable Name="z_3" />
+        <Variable Name="z_4" />
+        <Variable Name="z_5" />
+        <Variable Name="z_6" />
+        <Variable Name="xB_FehlerFuellstand1" />
+        <Variable Name="xB_FehlerFuellstand2" />
+        <Variable Name="typPiRegler_Durchflussregler">
+          <Variable Name="iA_Kp" />
+          <Variable Name="iA_Tp" />
+          <Variable Name="iA_Tn" />
+        </Variable>
+      </Task>
+      <Task Name="Simulation">
+        <Variable Name="xA_R1" />
+        <Variable Name="xA_R2" />
+        <Variable Name="xA_Druck" />
+        <Variable Name="xA_Fluss" />
+      </Task>
+    </Module>
+  </DefaultView>
+</OpcUaSource>

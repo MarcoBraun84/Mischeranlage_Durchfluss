@@ -1,0 +1,11 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Simulation 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=1 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                xA_Druck                                     REAL    0 "                                                      3.00782275"    0    8    1   10    1    0         
+                                  xA_dY3                                      INT    0 "                                                            1300"    0    3    1   10    1    0         
+                               xA_Y3_Sim                                      INT    0 "                                                               0"    0    3    1   10    1    0         
+                                   qA_Y3                                      INT    0 "                                                               0"    0    3    1   10    0    0         
+                             xA_MaxDruck                                     REAL    0 "                                                             8.0"    0    8    1   10    1    0         
+                                xA_Fluss                                     REAL    0 "                                                             0.0"    0    8    1   10    1    0         
+                                   xA_h1                                     REAL    0 "                                                      22.3023167"    0    8    1   10    1    0         
+                               xA_HystY3                                      INT    0 "                                                             320"    0    3    1   10    1    0         

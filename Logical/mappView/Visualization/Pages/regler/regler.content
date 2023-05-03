@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Content id="cont_regler" height="600" width="800" xmlns="http://www.br-automation.com/iat2015/contentDefinition/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Widgets>
+    <Widget xsi:type="widgets.brease.OnlineChart" id="OnlineChart1" top="40" left="40" width="580" zIndex="0">
+      <Widgets>
+        <Widget xsi:type="widgets.brease.OnlineChartYAxis" id="OnlineChartYAxis1" zIndex="0">
+          <Widgets>
+            <Widget xsi:type="widgets.brease.OnlineChartGraph" id="OnlineChartGraph1" zIndex="0" maxValue="2" minValue="-0.5" xAxisRefId="OnlineChartTimeAxis1" />
+          </Widgets>
+        </Widget>
+        <Widget xsi:type="widgets.brease.OnlineChartTimeAxis" id="OnlineChartTimeAxis1" zIndex="1" timeSpan="30">
+          <Widgets />
+        </Widget>
+      </Widgets>
+    </Widget>
+    <Widget xsi:type="widgets.brease.NumericInput" id="NumericInput1" top="80" left="680" zIndex="1" maxValue="10" minValue="0.1" />
+    <Widget xsi:type="widgets.brease.Label" id="Label1" top="80" left="620" width="60" zIndex="2" text="Kp:" textAlign="right" />
+    <Widget xsi:type="widgets.brease.NumericInput" id="NumericInput2" top="140" left="680" zIndex="3" maxValue="10" minValue="0.1" />
+    <Widget xsi:type="widgets.brease.Label" id="Label2" top="140" left="620" width="60" zIndex="4" text="Tp:" textAlign="right" />
+    <Widget xsi:type="widgets.brease.NumericInput" id="NumericInput3" top="200" left="680" zIndex="5" maxValue="10" minValue="0.1" />
+    <Widget xsi:type="widgets.brease.Label" id="Label3" top="200" left="620" width="60" zIndex="6" text="Tn:" textAlign="right" />
+    <Widget xsi:type="widgets.brease.PushButton" id="PushButton1" top="260" left="640" width="140" height="40" zIndex="7" text="S1 - Start" backColor="rgba(255, 255, 255, 0)" fontSize="20px" />
+  </Widgets>
+</Content>

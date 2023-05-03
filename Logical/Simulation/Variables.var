@@ -1,0 +1,65 @@
+
+VAR
+
+	(* Potentiometer *)
+	xA_R1: REAL 	:= 0;
+	xA_R2: REAL 	:= 0;
+	tmpA_R1: REAL	:= 0;
+	tmpA_R2: REAL	:= 0;
+	
+	(* Zustaende *)
+	z_Auffahren: BOOL := FALSE;
+	z_Zufahren:  BOOL := FALSE;
+	
+	(* Zeitvariablen *)
+	xA_T_Schieber: INT := 0;
+	xA_T_S1: INT := 0;
+	xA_T_S2: INT := 0;
+	
+	(* Fuellstand Mischer *)
+	xA_Mischer: REAL := 0;
+	
+	(* Silos *)
+	xA_V1_1: REAL := 0;
+	xA_V1_2: REAL := 0;
+	xA_dV1:  REAL := 0;
+	xA_A1:   REAL := 0;
+	xA_h1:   REAL := 0;
+	xA_dh1:  REAL := 0;
+    
+	xA_V2_1: REAL := 0;
+	xA_V2_2: REAL := 0;
+	xA_dV2:  REAL := 0;
+	xA_A2:   REAL := 0;
+	xA_h2:   REAL := 0;
+	xA_dh2:  REAL := 0;
+    
+	xA_s1:   REAL := 0;
+	xA_s2:   REAL := 0;
+	
+	(* Leitungsdruck *)
+	xA_Druck: 			REAL := 5.0;
+	xA_SteigenderDruck: REAL := 0.3;
+	xA_FallenderDruck: 	REAL := 0.15;
+	xA_MinDruck: 		REAL := 3;
+	xA_MaxDruck: 		REAL := 8;
+	xB_DruckSteigt:		BOOL := FALSE;
+	
+	(* Leitungsdurchfluss *)
+	xA_Fluss: 	REAL 	:= 0;
+	xA_Y3_Sim: 	INT 	:= 0;
+	xA_dY3: 	INT 	:= 1300;
+	xA_HystY3:	INT		:= 320;
+	
+	
+END_VAR
+
+VAR CONSTANT
+
+	(* Zeitkonstanten *)
+	cA_T_Zykl: INT := 100;
+	cA_T_Schieber: INT := 3000;
+	cA_T_S1: INT := 500;
+	cA_T_S2: INT := 500;
+	
+END_VAR

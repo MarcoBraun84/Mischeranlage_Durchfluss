@@ -1,0 +1,21 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=200 Type=100 Scope=60 Force=60 Index=6 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+            typPiRegler_Durchflussregler                                 PiRegler    0 "                                                               *"    0   24    1    0    1    1         
+                             iB_Freigabe                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                   iA_SW                                     REAL    0 "                                                          3276.0"    1    8    1   10    0    0         
+                                   iA_IW                                     REAL    0 "                                                             4.0"    1    8    1   10    0    0         
+                                   iA_Kp                                     REAL    0 "                                                             6.0"    1    8    1   10    0    0         
+                                   iA_Tp                                     REAL    0 "                                                             3.0"    1    8    1   10    0    0         
+                                   iA_Tn                                     REAL    0 "                                                             0.5"    1    8    1   10    0    0         
+                                   iA_dt                                     REAL    0 "                                                             0.1"    1    8    1   10    0    0         
+                                 iA_yMin                                     REAL    0 "                                                             0.0"    1    8    1   10    0    0         
+                                 iA_yMax                                     REAL    0 "                                                         32700.0"    1    8    1   10    0    0         
+                                    qA_y                                     REAL    0 "                                                             0.0"    1    8    1   10    0    0         
+                                  xB_AWU                                     BOOL    0 "                                                           FALSE"    1    1    1    2    0    0         
+                                    xA_u                                     REAL    0 "                                                          -278.0"    1    8    1   10    0    0         
+                                  xA_yP1                                     REAL    0 "                                                             0.0"    1    8    1   10    0    0         
+                                  xA_yP2                                     REAL    0 "                                                             0.0"    1    8    1   10    0    0         
+                                   xA_yI                                     REAL    0 "                                                             0.0"    1    8    1   10    0    0         
+                                   qA_Y3                                      INT    0 "                                                               0"    0    3    1   10    0    0         
+                                   iA_F3                                      INT    0 "                                                               4"    0    3    1   10    0    0         

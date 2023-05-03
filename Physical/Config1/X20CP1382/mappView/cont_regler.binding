@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BindingsSet id="cont_regler_binding" xmlns="http://www.br-automation.com/iat2015/binding/engineering/v2" xmlns:bt="http://www.br-automation.com/iat2015/bindingListTypes/engineering/v2" xmlns:be="http://www.br-automation.com/iat2015/bindingListEmbedded/engineering/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Bindings>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Simulation:xA_Fluss" attribute="value" />
+<Target xsi:type="brease" contentRefId="cont_regler" widgetRefId="OnlineChartGraph1" attribute="value" />
+</Binding>
+
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program:typPiRegler_Durchflussregler.iA_Kp" attribute="value" />
+<Target xsi:type="brease" contentRefId="cont_regler" widgetRefId="NumericInput1" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program:typPiRegler_Durchflussregler.iA_Tn" attribute="value" />
+<Target xsi:type="brease" contentRefId="cont_regler" widgetRefId="NumericInput3" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::Program:typPiRegler_Durchflussregler.iA_Tp" attribute="value" />
+<Target xsi:type="brease" contentRefId="cont_regler" widgetRefId="NumericInput2" attribute="value" />
+</Binding>
+<Binding mode="twoWay">
+<Source xsi:type="opcUa" refId="::AsGlobalPV:iB_S1" attribute="value" />
+<Target xsi:type="brease" contentRefId="cont_regler" widgetRefId="PushButton1" attribute="value" />
+</Binding>
+</Bindings>
+</BindingsSet>
