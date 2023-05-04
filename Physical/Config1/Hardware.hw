@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<?AutomationStudio Version=4.11.2.75 FileVersion="4.9"?>
+<?AutomationStudio Version=4.12.3.127 FileVersion="4.9"?>
 <Hardware xmlns="http://br-automation.co.at/AS/Hardware">
   <Module Name="X20AI2222_1" Type="X20AI2222" Version="1.2.0.0">
     <Connection Connector="SS1" TargetModule="X20TB12a" TargetConnector="SS" />
@@ -40,7 +40,6 @@
     <Connection Connector="X3" TargetModule="X3" TargetConnector="SL" />
     <Connector Name="IF2">
       <Parameter ID="ActivateDevice" Value="1" />
-      <Parameter ID="Mode" Value="DHCP Server" />
       <Parameter ID="ActivateSnmp" Value="2" />
     </Connector>
     <Parameter ID="ConfigurationID" Value="X20CP1382_Config1" />

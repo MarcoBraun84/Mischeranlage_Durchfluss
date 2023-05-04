@@ -1,0 +1,21 @@
+Fri Jun 17 12:09:23 2022
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Fri Jun 17 12:09:23 2022
+No ARsim registration found!
+
+Fri Jun 17 12:09:23 2022
+InstanceName: 00000bc046ed63c4
+
+Fri Jun 17 12:09:23 2022
+WorkingDirectory: C:\Users\student\Desktop\MischeranlageRevA\MischeranlageRevA_Stufe03_DurchflussRegelung\Temp\Simulation\Config1\X20CP1382\
+
+Fri Jun 17 12:09:23 2022
+COMMAND_COLDSTART
+
+Fri Jun 17 12:09:26 2022
+Version: E4.83
+
+Fri Jun 17 12:09:26 2022
+COMMAND_TERMINATE
+

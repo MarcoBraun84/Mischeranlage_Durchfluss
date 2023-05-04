@@ -1,0 +1,5 @@
+$(AS_PROJECT_PATH)/Logical/Global.var
+$(AS_PROJECT_PATH)/Logical/Simulation/Variables.var
+$(AS_PROJECT_PATH)/Physical/Config1/X20CP1382/Cpu.sw
+$(AS_PROJECT_PATH)/Logical/Program/Variables.var
+$(AS_PROJECT_PATH)/Logical/Program/LocalFunctions.fun

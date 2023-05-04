@@ -1,0 +1,161 @@
+﻿@import "mixins.scss";
+#cont_regler_OnlineChart1 {
+	@include elemHeight(440);
+}
+#cont_regler_OnlineChart1 {
+	@include elemTop(40);
+}
+#cont_regler_OnlineChart1 {
+	@include elemLeft(40);
+}
+#cont_regler_OnlineChart1 {
+	@include elemWidth(580);
+}
+#cont_regler_OnlineChart1 {
+		z-index: 0;
+}
+#cont_regler_OnlineChartYAxis1 {
+	@include elemWidth(60);
+}
+#cont_regler_OnlineChartYAxis1 {
+	@include elemFlexBasis(60);
+}
+#cont_regler_OnlineChartYAxis1 {
+		z-index: 0;
+}
+#cont_regler_OnlineChartGraph1 {
+		z-index: 0;
+}
+#cont_regler_OnlineChartTimeAxis1 {
+	@include elemHeight(50);
+}
+#cont_regler_OnlineChartTimeAxis1 {
+	@include elemFlexBasis(50);
+}
+#cont_regler_OnlineChartTimeAxis1 {
+		z-index: 1;
+}
+#cont_regler_NumericInput1 {
+	@include elemWidth(100);
+}
+#cont_regler_NumericInput1 {
+	@include elemHeight(30);
+}
+#cont_regler_NumericInput1 {
+	@include elemTop(80);
+}
+#cont_regler_NumericInput1 {
+	@include elemLeft(680);
+}
+#cont_regler_NumericInput1 {
+		z-index: 1;
+}
+#cont_regler_Label1 {
+	@include elemAutoHeight(30);
+}
+#cont_regler_Label1 {
+	@include elemTop(80);
+}
+#cont_regler_Label1 {
+	@include elemLeft(620);
+}
+#cont_regler_Label1 {
+	@include elemAutoWidth(60);
+}
+#cont_regler_Label1 {
+		z-index: 2;
+}
+#cont_regler_Label1 {
+	@include text-alignment-all('right');
+}
+#cont_regler_NumericInput2 {
+	@include elemWidth(100);
+}
+#cont_regler_NumericInput2 {
+	@include elemHeight(30);
+}
+#cont_regler_NumericInput2 {
+	@include elemTop(140);
+}
+#cont_regler_NumericInput2 {
+	@include elemLeft(680);
+}
+#cont_regler_NumericInput2 {
+		z-index: 3;
+}
+#cont_regler_Label2 {
+	@include elemAutoHeight(30);
+}
+#cont_regler_Label2 {
+	@include elemTop(140);
+}
+#cont_regler_Label2 {
+	@include elemLeft(620);
+}
+#cont_regler_Label2 {
+	@include elemAutoWidth(60);
+}
+#cont_regler_Label2 {
+		z-index: 4;
+}
+#cont_regler_Label2 {
+	@include text-alignment-all('right');
+}
+#cont_regler_NumericInput3 {
+	@include elemWidth(100);
+}
+#cont_regler_NumericInput3 {
+	@include elemHeight(30);
+}
+#cont_regler_NumericInput3 {
+	@include elemTop(200);
+}
+#cont_regler_NumericInput3 {
+	@include elemLeft(680);
+}
+#cont_regler_NumericInput3 {
+		z-index: 5;
+}
+#cont_regler_Label3 {
+	@include elemAutoHeight(30);
+}
+#cont_regler_Label3 {
+	@include elemTop(200);
+}
+#cont_regler_Label3 {
+	@include elemLeft(620);
+}
+#cont_regler_Label3 {
+	@include elemAutoWidth(60);
+}
+#cont_regler_Label3 {
+		z-index: 6;
+}
+#cont_regler_Label3 {
+	@include text-alignment-all('right');
+}
+#cont_regler_PushButton1 {
+	@include elemTop(260);
+}
+#cont_regler_PushButton1 {
+	@include elemLeft(640);
+}
+#cont_regler_PushButton1 {
+	@include elemAutoWidth(140);
+}
+#cont_regler_PushButton1 {
+	@include elemAutoHeight(40);
+}
+#cont_regler_PushButton1 {
+		z-index: 7;
+}
+#cont_regler_PushButton1 {
+	&:not(.disabled):not(.active):not(.checked){
+		background-color: rgba(255, 255, 255, 0);
+	}
+}
+#cont_regler_PushButton1 {
+	span{
+		font-size: 20px;
+	}
+}

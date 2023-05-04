@@ -1,0 +1,232 @@
+#cont_regler_OnlineChart1 {
+  height: 440px;
+}
+
+#cont_regler_OnlineChart1 {
+  top: 40px;
+  position: absolute;
+}
+
+#cont_regler_OnlineChart1 {
+  left: 40px;
+  position: absolute;
+}
+
+#cont_regler_OnlineChart1 {
+  width: 580px;
+}
+
+#cont_regler_OnlineChart1 {
+  z-index: 0;
+}
+
+#cont_regler_OnlineChartYAxis1 {
+  width: 60px;
+}
+
+#cont_regler_OnlineChartYAxis1 {
+  flex-basis: 60px;
+}
+
+#cont_regler_OnlineChartYAxis1 {
+  z-index: 0;
+}
+
+#cont_regler_OnlineChartGraph1 {
+  z-index: 0;
+}
+
+#cont_regler_OnlineChartTimeAxis1 {
+  height: 50px;
+}
+
+#cont_regler_OnlineChartTimeAxis1 {
+  flex-basis: 50px;
+}
+
+#cont_regler_OnlineChartTimeAxis1 {
+  z-index: 1;
+}
+
+#cont_regler_NumericInput1 {
+  width: 100px;
+}
+
+#cont_regler_NumericInput1 {
+  height: 30px;
+}
+
+#cont_regler_NumericInput1 {
+  top: 80px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput1 {
+  left: 680px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput1 {
+  z-index: 1;
+}
+
+#cont_regler_Label1 {
+  height: 30px;
+}
+
+#cont_regler_Label1 {
+  top: 80px;
+  position: absolute;
+}
+
+#cont_regler_Label1 {
+  left: 620px;
+  position: absolute;
+}
+
+#cont_regler_Label1 {
+  width: 60px;
+}
+
+#cont_regler_Label1 {
+  z-index: 2;
+}
+
+#cont_regler_Label1 {
+  justify-content: flex-end;
+  text-align: right;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#cont_regler_NumericInput2 {
+  width: 100px;
+}
+
+#cont_regler_NumericInput2 {
+  height: 30px;
+}
+
+#cont_regler_NumericInput2 {
+  top: 140px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput2 {
+  left: 680px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput2 {
+  z-index: 3;
+}
+
+#cont_regler_Label2 {
+  height: 30px;
+}
+
+#cont_regler_Label2 {
+  top: 140px;
+  position: absolute;
+}
+
+#cont_regler_Label2 {
+  left: 620px;
+  position: absolute;
+}
+
+#cont_regler_Label2 {
+  width: 60px;
+}
+
+#cont_regler_Label2 {
+  z-index: 4;
+}
+
+#cont_regler_Label2 {
+  justify-content: flex-end;
+  text-align: right;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#cont_regler_NumericInput3 {
+  width: 100px;
+}
+
+#cont_regler_NumericInput3 {
+  height: 30px;
+}
+
+#cont_regler_NumericInput3 {
+  top: 200px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput3 {
+  left: 680px;
+  position: absolute;
+}
+
+#cont_regler_NumericInput3 {
+  z-index: 5;
+}
+
+#cont_regler_Label3 {
+  height: 30px;
+}
+
+#cont_regler_Label3 {
+  top: 200px;
+  position: absolute;
+}
+
+#cont_regler_Label3 {
+  left: 620px;
+  position: absolute;
+}
+
+#cont_regler_Label3 {
+  width: 60px;
+}
+
+#cont_regler_Label3 {
+  z-index: 6;
+}
+
+#cont_regler_Label3 {
+  justify-content: flex-end;
+  text-align: right;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#cont_regler_PushButton1 {
+  top: 260px;
+  position: absolute;
+}
+
+#cont_regler_PushButton1 {
+  left: 640px;
+  position: absolute;
+}
+
+#cont_regler_PushButton1 {
+  width: 140px;
+}
+
+#cont_regler_PushButton1 {
+  height: 40px;
+}
+
+#cont_regler_PushButton1 {
+  z-index: 7;
+}
+
+#cont_regler_PushButton1:not(.disabled):not(.active):not(.checked) {
+  background-color: rgba(255, 255, 255, 0);
+}
+
+#cont_regler_PushButton1 span {
+  font-size: 20px;
+}

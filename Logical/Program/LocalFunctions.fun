@@ -22,9 +22,6 @@
 		xA_A : REAL;
 		xA_h_zuletzt : REAL;
 		xA_dh : REAL;
-		xA_V1 : REAL;
-		xA_V2 : REAL;
-		xA_h : REAL;
 		xA_Mindestfuellmenge : REAL;
 		xA_dV : REAL;
 	END_VAR

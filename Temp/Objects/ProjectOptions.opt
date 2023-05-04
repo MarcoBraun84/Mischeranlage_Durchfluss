@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.12.3.127 SP"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\"
+  TempDirectory="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\"
+  AutomationStudioVersion="4.12.3.127 SP"
+  AutomationStudioEdition="Standard"
+  BuildCrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />
