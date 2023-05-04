@@ -1,51 +1,285 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opcuamap\opcuamap.uar">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\program\localfunctions.fun" weicht ab.
-</BuildReason>
+  <Rule ID=".mappView_Clean_Data">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\main.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\program\localfunctions.fun" weicht ab.
-</BuildReason>
+  <Rule ID=".mappView_Clean_Media">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferData_PLC">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_Build">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferIatr_PLC">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferIatr_Client">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID=".mappView_Clean_TransferData_Client">
+    <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\brease\iatc\brvisu\brease._markerfile">
+    <BuildReason>Ziel "brease._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\transformations_copy._markerfile">
+    <BuildReason>Ziel "transformations_copy._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\brease\iat\build\jsbuild._markerfile">
+    <BuildReason>Ziel "jsbuild._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\server\serverdiagnostics._markerfile">
+    <BuildReason>Ziel "serverdiagnostics._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\types\area._markerfile">
+    <BuildReason>Ziel "area._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\index.html">
+    <BuildReason>Ziel "index.html" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\server\vis_0.vis">
+    <BuildReason>Ziel "vis_0.vis" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\duplicatethemesfinder._markerfile">
+    <BuildReason>Ziel "duplicatethemesfinder._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\duplicatestylesfinder._markerfile">
+    <BuildReason>Ziel "duplicatestylesfinder._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\server\config.mappviewcfg">
+    <BuildReason>Ziel "config.mappviewcfg" existiert nicht</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\iat_media.job._markerfile">
     <BuildReason>Ziel "iat_media.job._markerfile" existiert nicht</BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\silo.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\program\localfunctions.fun" weicht ab.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\favicon.ico">
+    <BuildReason>Ziel "favicon.ico" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\duplicatestylessetsfinder._markerfile">
+    <BuildReason>Ziel "duplicatestylessetsfinder._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\duplicatebindingslistsetsfinder._markerfile">
+    <BuildReason>Kommandozeile unterscheiden sich.
 </BuildReason>
   </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\piregler.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\program\localfunctions.fun" weicht ab.
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\.mappview_prerequisites._markerfile">
+    <BuildReason>Ziel ".mappview_prerequisites._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\area_default.scss.css">
+    <BuildReason>Ziel "area_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\body_default.scss.css">
+    <BuildReason>Ziel "body_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\elementfocus_default.scss.css">
+    <BuildReason>Ziel "elementfocus_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\dialog_default.scss.css">
+    <BuildReason>Ziel "dialog_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\changepassworddialog_default.scss.css">
+    <BuildReason>Ziel "changepassworddialog_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\focus_default.scss.css">
+    <BuildReason>Ziel "focus_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\messagebox_default.scss.css">
+    <BuildReason>Ziel "messagebox_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\modaldimmer_default.scss.css">
+    <BuildReason>Ziel "modaldimmer_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\page_default.scss.css">
+    <BuildReason>Ziel "page_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\scrollbar_default.scss.css">
+    <BuildReason>Ziel "scrollbar_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\selection_default.scss.css">
+    <BuildReason>Ziel "selection_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\startupprogressbar_default.scss.css">
+    <BuildReason>Ziel "startupprogressbar_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\tableconfigurationdialog_default.scss.css">
+    <BuildReason>Ziel "tableconfigurationdialog_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\common\busyindicatorhandler\libs\busyindicatorhandler.js._markerfile">
+    <BuildReason>Ziel "busyindicatorhandler.js._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\types\tooltip_default.scss.css">
+    <BuildReason>Ziel "tooltip_default.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\transformations\eventbinding\parametertypemapping.xml">
+    <BuildReason>Kommandozeile unterscheiden sich.
 </BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\vis_0.json._markerfile">
+    <BuildReason>Ziel "vis_0.json._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\layout_0.layout._markerfile">
+    <BuildReason>Ziel "layout_0.layout._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\validateeventbindings._markerfile">
+    <BuildReason>Kommandozeile unterscheiden sich.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\server\__systemvariables.sessionvar">
+    <BuildReason>Ziel "__systemvariables.sessionvar" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\themes\grunt.themescsso._markerfile">
+    <BuildReason>Ziel "grunt.themescsso._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\navigationbar\meta\navigationbar_copied.markerfile">
+    <BuildReason>Ziel "navigationbar_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\togglebutton\meta\togglebutton_copied.markerfile">
+    <BuildReason>Ziel "togglebutton_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\navigationbutton\meta\navigationbutton_copied.markerfile">
+    <BuildReason>Ziel "navigationbutton_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\buttonbar\meta\buttonbar_copied.markerfile">
+    <BuildReason>Ziel "buttonbar_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\button\meta\button_copied.markerfile">
+    <BuildReason>Ziel "button_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\progressbar\meta\progressbar_copied.markerfile">
+    <BuildReason>Ziel "progressbar_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\line\meta\line_copied.markerfile">
+    <BuildReason>Ziel "line_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\ellipse\meta\ellipse_copied.markerfile">
+    <BuildReason>Ziel "ellipse_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\rectangle\meta\rectangle_copied.markerfile">
+    <BuildReason>Ziel "rectangle_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\label\meta\label_copied.markerfile">
+    <BuildReason>Ziel "label_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\numericoutput\meta\numericoutput_copied.markerfile">
+    <BuildReason>Ziel "numericoutput_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\numericinput\meta\numericinput_copied.markerfile">
+    <BuildReason>Ziel "numericinput_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\radialslider\meta\radialslider_copied.markerfile">
+    <BuildReason>Ziel "radialslider_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\pushbutton\meta\pushbutton_copied.markerfile">
+    <BuildReason>Ziel "pushbutton_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechart\meta\onlinechart_copied.markerfile">
+    <BuildReason>Ziel "onlinechart_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\chartwidget\meta\chartwidget_copied.markerfile">
+    <BuildReason>Ziel "chartwidget_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\busyindicator\meta\busyindicator_copied.markerfile">
+    <BuildReason>Ziel "busyindicator_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechartyaxis\meta\onlinechartyaxis_copied.markerfile">
+    <BuildReason>Ziel "onlinechartyaxis_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\contents\mappview\cont_nav._markerfile">
+    <BuildReason>Ziel "cont_nav._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\chartyaxiswidget\meta\chartyaxiswidget_copied.markerfile">
+    <BuildReason>Ziel "chartyaxiswidget_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\onlinechartgraph\meta\onlinechartgraph_copied.markerfile">
+    <BuildReason>Ziel "onlinechartgraph_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\chartyvaluelistwidget\meta\chartyvaluelistwidget_copied.markerfile">
+    <BuildReason>Ziel "chartyvaluelistwidget_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\onlinecharttimeaxis\meta\onlinecharttimeaxis_copied.markerfile">
+    <BuildReason>Ziel "onlinecharttimeaxis_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\chartxaxiswidget\meta\chartxaxiswidget_copied.markerfile">
+    <BuildReason>Ziel "chartxaxiswidget_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\messagebox\meta\messagebox_copied.markerfile">
+    <BuildReason>Ziel "messagebox_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\window\meta\window_copied.markerfile">
+    <BuildReason>Ziel "window_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\dialogwindow\meta\dialogwindow_copied.markerfile">
+    <BuildReason>Ziel "dialogwindow_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\contents\mappview\cont_uebersicht._markerfile">
+    <BuildReason>Ziel "cont_uebersicht._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\numpad\meta\numpad_copied.markerfile">
+    <BuildReason>Ziel "numpad_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\keyboard\meta\keyboard_copied.markerfile">
+    <BuildReason>Ziel "keyboard_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\widgets\brease\datetimepicker\meta\datetimepicker_copied.markerfile">
+    <BuildReason>Ziel "datetimepicker_copied.markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\contents\mappview\cont_regler._markerfile">
+    <BuildReason>Ziel "cont_regler._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\.mappview_widgetsfinished._markerfile">
+    <BuildReason>Ziel ".mappview_widgetsfinished._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\validatebindings._markerfile">
+    <BuildReason>Kommandozeile unterscheiden sich.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\grunt.breaserelease._markerfile">
+    <BuildReason>Ziel "grunt.breaserelease._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\server\-543470328.binding._markerfile">
+    <BuildReason>Ziel "-543470328.binding._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\server\741562575.binding._markerfile">
+    <BuildReason>Ziel "741562575.binding._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\duplicatebindingsfinder._markerfile">
+    <BuildReason>Kommandozeile unterscheiden sich.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\pages\mappview\cont_nav.scss.css">
+    <BuildReason>Ziel "cont_nav.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\uebersicht.page._markerfile">
+    <BuildReason>Ziel "uebersicht.page._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\pages\mappview\cont_uebersicht.scss.css">
+    <BuildReason>Ziel "cont_uebersicht.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\regler.page._markerfile">
+    <BuildReason>Ziel "regler.page._markerfile" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\pages\mappview\cont_regler.scss.css">
+    <BuildReason>Ziel "cont_regler.scss.css" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\vis_0.json">
+    <BuildReason>Ziel "vis_0.json" existiert nicht</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\brvisu\css\brease_core.css">
+    <BuildReason>Kommandozeile unterscheiden sich.
+</BuildReason>
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\.mappview\data\wwwroot\grunt.breasecsso._markerfile">
+    <BuildReason>Ziel "grunt.breasecsso._markerfile" existiert nicht</BuildReason>
   </Rule>
   <Rule ID=".mappView_Build">
     <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
   </Rule>
-  <Rule ID=".mappView_IntegrationBuild">
+  <Rule ID=".mappView_FullBuild">
     <BuildReason>Regel enthält ein Phony Ziel. </BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\_bur_pvdef.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\main.st.o" weicht ab.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\a.out">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\main.st.o" weicht ab.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\program.ox">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\a.out" weicht ab.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program\program.ox" weicht ab.
-</BuildReason>
   </Rule>
   <Rule ID="#cpu_tp.mak">
     <BuildReason>Regel wird erzwungen.</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp1382\transfer.lst">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\program.br" weicht ab.
-</BuildReason>
   </Rule>
 </BuildReasons>

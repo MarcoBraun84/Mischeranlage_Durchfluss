@@ -5,10 +5,10 @@
     <ConnectionParameters>/RT=1000 /DAIP=127.0.0.1 /REPO=11160 /ANSL=1 /AM=* /PT=11169</ConnectionParameters>
   </Connection>
   <AsProject>
-    <ApjFullFileName>C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\MischeranlageRevA_Stufe03_DurchflussRegelung.apj</ApjFullFileName>
+    <ApjFullFileName>C:\projects\Mischeranlage_Durchfluss\MischeranlageRevA_Stufe03_DurchflussRegelung.apj</ApjFullFileName>
     <ProjectName>MischeranlageRevA_Stufe03_DurchflussRegelung</ProjectName>
     <ActiveConfigurationName>Config1</ActiveConfigurationName>
-    <LicenseDataFolder>C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\Objects\Config1\X20CP1382</LicenseDataFolder>
+    <LicenseDataFolder>C:\projects\Mischeranlage_Durchfluss\Temp\Objects\Config1\X20CP1382</LicenseDataFolder>
   </AsProject>
   <General>
     <DeleteParameterFile>false</DeleteParameterFile>

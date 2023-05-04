@@ -15,11 +15,11 @@
       Source="Simulation"
       Language="IEC">
       <InternalFile
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\Objects\Config1\X20CP1382\Simulation\Main.st.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Temp\Objects\Config1\X20CP1382\Simulation\Main.st.var" />
       <File
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\Simulation\Types.typ" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Logical\Simulation\Types.typ" />
       <File
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\Simulation\Variables.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Logical\Simulation\Variables.var" />
     </Task>
     <Task
       Name="Program"
@@ -27,17 +27,17 @@
       Source="Program"
       Language="IEC">
       <InternalFile
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\Objects\Config1\X20CP1382\Program\Main.st.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Temp\Objects\Config1\X20CP1382\Program\Main.st.var" />
       <File
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\Program\Types.typ" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Logical\Program\Types.typ" />
       <File
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\Program\Variables.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Logical\Program\Variables.var" />
       <File
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Logical\Program\LocalFunctions.fun" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Logical\Program\LocalFunctions.fun" />
       <InternalFile
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\Objects\Config1\X20CP1382\Program\Silo.st.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Temp\Objects\Config1\X20CP1382\Program\Silo.st.var" />
       <InternalFile
-        Path="C:\projects\MischeranlageRevA_Stufe03_Durchflussregelung\Temp\Objects\Config1\X20CP1382\Program\PiRegler.st.var" />
+        Path="C:\projects\Mischeranlage_Durchfluss\Temp\Objects\Config1\X20CP1382\Program\PiRegler.st.var" />
     </Task>
   </TaskClass>
   <TaskClass
