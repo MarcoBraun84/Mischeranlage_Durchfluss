@@ -1,6 +1,6 @@
 (* Zustaende *)<br />
 VAR<br />
-&emsp z_0 : BOOL := FALSE; (* Leerlauf *)<br />
+&emsp; z_0 : BOOL := FALSE; (* Leerlauf *)<br />
 &emsp z_1 : BOOL := FALSE; (* Befuellen und Mischen *)<br />
 &emsp z_2 : BOOL := FALSE; (* Mischen *)<br />
 &emsp z_3 : BOOL := FALSE; (* Schieber auffahren und Abtransport *)<br />
